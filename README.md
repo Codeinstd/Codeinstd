@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David
-- I help buidl usable products that solves user's needs.
+- I help build usable products that solves user's needs.
 - 👀 I’m interested in Software Products, Development and Implementation
 - 🌱 I’m currently learning React,
 - 💞️ I’m looking to collaborate with creative minds on amazing projects
