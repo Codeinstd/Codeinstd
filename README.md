@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Codeinstd
-- 👀 I’m interested in Software Development and Implementation
-- 🌱 I’m currently learning Javascript, React
+- 👋 Hi, I’m David
+- I help buidl usable products that solves user's needs.
+- 👀 I’m interested in Software Products, Development and Implementation
+- 🌱 I’m currently learning React,
 - 💞️ I’m looking to collaborate with creative minds on amazing projects
-- 📫 How to reach me .designer.oladipupo@gmail.com, +234-8184257312
+- 📫 How to reach me designer.oladipupo@gmail.com, +234-8184257312
 
 <!---
 Codeinstd/Codeinstd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
