@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David
-- I help build usable products that solves user's needs
+- I design systems that improve retention and efficiency
 - 👀 I’m interested in Software and Hardware Products...
 - 🌱 Always learning new stuff
 - 💞️ I’m looking to collaborate with creative minds on amazing projects
